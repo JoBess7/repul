@@ -1,0 +1,6 @@
+EMAIL_SENDER=example@example.local
+PASSWORD_SENDER=a_password
+JWT_SECRET=a_secret
+DELIVERY_PERSON_EMAIL=roger@ulaval.ca
+CLIENT_EMAIL=alexandra@ulaval.ca
+LOCKER_API_KEY=c9f8432b-411a-4f50-b75b-383783de9f61

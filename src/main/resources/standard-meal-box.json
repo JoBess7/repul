@@ -1,0 +1,54 @@
+{
+    "recipes": [
+        {
+            "name": "Spaghetti Carbonara",
+            "calories": "650",
+            "ingredients": [
+                {"ingredient": "spaghetti", "quantity": "200g"},
+                {"ingredient": "egg", "quantity": "2"},
+                {"ingredient": "pecorino cheese", "quantity": "50g"},
+                {"ingredient": "guanciale", "quantity": "100g"}
+            ]
+        },
+        {
+            "name": "Chicken Salad",
+            "calories": "350",
+            "ingredients": [
+                {"ingredient": "chicken breast", "quantity": "200g"},
+                {"ingredient": "lettuce", "quantity": "1 head"},
+                {"ingredient": "tomato", "quantity": "2"},
+                {"ingredient": "cucumber", "quantity": "1"}
+            ]
+        },
+        {
+            "name": "Pancakes",
+            "calories": "520",
+            "ingredients": [
+                {"ingredient": "flour", "quantity": "200g"},
+                {"ingredient": "milk", "quantity": "300ml"},
+                {"ingredient": "egg", "quantity": "1"},
+                {"ingredient": "baking powder", "quantity": "1 tsp"}
+            ]
+        },
+        {
+            "name": "Guacamole",
+            "calories": "400",
+            "ingredients": [
+                {"ingredient": "avocado", "quantity": "2"},
+                {"ingredient": "lime", "quantity": "1"},
+                {"ingredient": "tomato", "quantity": "1"},
+                {"ingredient": "onion", "quantity": "0.5"}
+            ]
+        },
+        {
+            "name": "Chocolate Cake",
+            "calories": "700",
+            "ingredients": [
+                {"ingredient": "flour", "quantity": "200g"},
+                {"ingredient": "cocoa powder", "quantity": "50g"},
+                {"ingredient": "sugar", "quantity": "150g"},
+                {"ingredient": "egg", "quantity": "2"}
+            ]
+        }
+    ]
+}
